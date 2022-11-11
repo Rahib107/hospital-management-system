@@ -1,0 +1,1 @@
+<footer style="background-color:orange;" >Date:<?php echo date('D/M/Y');?></footer>
